@@ -2,6 +2,5 @@
 
 .gitignore 
 
-/home/jack/Documents/test_ws/devel/*
-
-/home/jack/Documents/test_ws/devel_isolated/*
+devel/
+devel_isolated/
